@@ -1,14 +1,14 @@
-# Script_PRV
+# Script
 Private  script
 
 ## Installation
 
 ```bash
-  git clone https://github.com/cpoCyb/Script_PRV
+  git clone https://github.com/cpoCyb/Script
 ```
 
 ```bash
-  cd Cyber_Script_PRV
+  cd Script
 ```
 
 
